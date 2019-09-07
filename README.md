@@ -1,4 +1,5 @@
-# Federated telegram server compatible with official clients.
+# Federated telegram server compatible* with official clients
+*. The client needs a little modification to accept the generated server public key.
 
 ### Introduce
 Federated telegram server compatible with official clients.
